@@ -1,4 +1,4 @@
-# Episode 7: Functions
+# Episode 8: Functions
 # Step By Step Coding · Python basics
 #
 # Try it: Add greet("your name") at the bottom, then press Run

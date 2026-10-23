@@ -1,4 +1,4 @@
-# Episode 10: Numbers and operators
+# Episode 11: Numbers and operators
 # Step By Step Coding · Python basics
 #
 # Try it: Change a to 10 and press Run

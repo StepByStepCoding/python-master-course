@@ -1,4 +1,4 @@
-# Episode 26: Project: to-do manager
+# Episode 27: Project: to-do manager
 # Step By Step Coding · Python basics
 #
 # Try it: Add add_task("your own task") and press Run

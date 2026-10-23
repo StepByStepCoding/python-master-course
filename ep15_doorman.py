@@ -1,4 +1,4 @@
-# Episode 14: Nested decisions
+# Episode 15: Nested decisions
 # Step By Step Coding · Python basics
 #
 # Try it: Set has_ticket to False and press Run

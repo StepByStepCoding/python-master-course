@@ -1,6 +1,6 @@
 # Python Basics Practice Files
 
-Starter code for the **Step By Step Coding** Python series.
+Starter code for the **Step By Step Coding** Python for AI course (Part 1: Foundations, episodes 1–27).
 
 Watching is good. Typing the code yourself is better. Every episode has one file here, with a couple of small tasks written at the top for you to try.
 
@@ -15,30 +15,31 @@ Watching is good. Typing the code yourself is better. Every episode has one file
 |---|---|---|
 | 1 | Your first program | [ep01_first_program.py](ep01_first_program.py) |
 | 2 | Variables | [ep02_variables.py](ep02_variables.py) |
-| 3 | Input, output and strings | [ep03_talk.py](ep03_talk.py) |
-| 4 | Conditions | [ep04_decisions.py](ep04_decisions.py) |
-| 5 | Loops | [ep05_loops.py](ep05_loops.py) |
-| 6 | Lists and dictionaries | [ep06_collections.py](ep06_collections.py) |
-| 7 | Functions | [ep07_functions.py](ep07_functions.py) |
-| 8 | Errors | [ep08_errors.py](ep08_errors.py) |
-| 9 | Mini project | [ep09_gradebook.py](ep09_gradebook.py) |
-| 10 | Numbers and operators | [ep10_math_basics.py](ep10_math_basics.py) |
-| 11 | String methods | [ep11_text_tools.py](ep11_text_tools.py) |
-| 12 | Formatting output | [ep12_receipt.py](ep12_receipt.py) |
-| 13 | Booleans and truthiness | [ep13_truth.py](ep13_truth.py) |
-| 14 | Nested decisions | [ep14_doorman.py](ep14_doorman.py) |
-| 15 | while, break and continue | [ep15_controls.py](ep15_controls.py) |
-| 16 | range, enumerate and zip | [ep16_loop_tools.py](ep16_loop_tools.py) |
-| 17 | List methods and slicing | [ep17_list_tools.py](ep17_list_tools.py) |
-| 18 | List comprehensions | [ep18_shortcuts.py](ep18_shortcuts.py) |
-| 19 | Tuples and sets | [ep19_tuples_sets.py](ep19_tuples_sets.py) |
-| 20 | Dictionaries in depth | [ep20_dict_tools.py](ep20_dict_tools.py) |
-| 21 | Nested data | [ep21_nested.py](ep21_nested.py) |
-| 22 | Parameters | [ep22_params.py](ep22_params.py) |
-| 23 | Scope and return values | [ep23_scope.py](ep23_scope.py) |
-| 24 | lambda, map, filter and sorted | [ep24_functional.py](ep24_functional.py) |
-| 25 | Recursion | [ep25_recursion.py](ep25_recursion.py) |
-| 26 | Project: to-do manager | [ep26_todo.py](ep26_todo.py) |
+| 3 | Python's syntax rules | [ep03_rules.py](ep03_rules.py) |
+| 4 | Input, output and strings | [ep04_talk.py](ep04_talk.py) |
+| 5 | Conditions | [ep05_decisions.py](ep05_decisions.py) |
+| 6 | Loops | [ep06_loops.py](ep06_loops.py) |
+| 7 | Lists and dictionaries | [ep07_collections.py](ep07_collections.py) |
+| 8 | Functions | [ep08_functions.py](ep08_functions.py) |
+| 9 | Errors | [ep09_errors.py](ep09_errors.py) |
+| 10 | Mini project | [ep10_gradebook.py](ep10_gradebook.py) |
+| 11 | Numbers and operators | [ep11_math_basics.py](ep11_math_basics.py) |
+| 12 | String methods | [ep12_text_tools.py](ep12_text_tools.py) |
+| 13 | Formatting output | [ep13_receipt.py](ep13_receipt.py) |
+| 14 | Booleans and truthiness | [ep14_truth.py](ep14_truth.py) |
+| 15 | Nested decisions | [ep15_doorman.py](ep15_doorman.py) |
+| 16 | while, break and continue | [ep16_controls.py](ep16_controls.py) |
+| 17 | range, enumerate and zip | [ep17_loop_tools.py](ep17_loop_tools.py) |
+| 18 | List methods and slicing | [ep18_list_tools.py](ep18_list_tools.py) |
+| 19 | List comprehensions | [ep19_shortcuts.py](ep19_shortcuts.py) |
+| 20 | Tuples and sets | [ep20_tuples_sets.py](ep20_tuples_sets.py) |
+| 21 | Dictionaries in depth | [ep21_dict_tools.py](ep21_dict_tools.py) |
+| 22 | Nested data | [ep22_nested.py](ep22_nested.py) |
+| 23 | Parameters | [ep23_params.py](ep23_params.py) |
+| 24 | Scope and return values | [ep24_scope.py](ep24_scope.py) |
+| 25 | lambda, map, filter and sorted | [ep25_functional.py](ep25_functional.py) |
+| 26 | Recursion | [ep26_recursion.py](ep26_recursion.py) |
+| 27 | Project: to-do manager | [ep27_todo.py](ep27_todo.py) |
 
 More episodes will be added as the series grows.
 

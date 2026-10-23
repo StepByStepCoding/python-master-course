@@ -1,4 +1,4 @@
-# Episode 8: Errors
+# Episode 9: Errors
 # Step By Step Coding · Python basics
 #
 # Try it: Change the 0 to a 5 and press Run. No error now

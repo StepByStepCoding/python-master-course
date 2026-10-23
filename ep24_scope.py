@@ -1,4 +1,4 @@
-# Episode 23: Scope and return values
+# Episode 24: Scope and return values
 # Step By Step Coding · Python basics
 #
 # Try it: Change the 5 inside change() to 99. Does outside change? Run

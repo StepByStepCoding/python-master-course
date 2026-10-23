@@ -1,4 +1,4 @@
-# Episode 9: Mini project
+# Episode 10: Mini project
 # Step By Step Coding · Python basics
 #
 # Try it: Change one of the scores and press Run. Watch avg

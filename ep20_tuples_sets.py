@@ -1,4 +1,4 @@
-# Episode 19: Tuples and sets
+# Episode 20: Tuples and sets
 # Step By Step Coding · Python basics
 #
 # Try it: Change the point to (10, 20) and press Run

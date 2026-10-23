@@ -1,4 +1,4 @@
-# Episode 4: Conditions
+# Episode 5: Conditions
 # Step By Step Coding · Python basics
 #
 # Try it: Change age to 18, then to 17. Press Run each time

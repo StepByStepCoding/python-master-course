@@ -1,4 +1,4 @@
-# Episode 6: Lists and dictionaries
+# Episode 7: Lists and dictionaries
 # Step By Step Coding · Python basics
 #
 # Try it: Add scores.append(100) and press Run

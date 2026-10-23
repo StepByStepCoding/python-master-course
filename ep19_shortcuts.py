@@ -1,4 +1,4 @@
-# Episode 18: List comprehensions
+# Episode 19: List comprehensions
 # Step By Step Coding · Python basics
 #
 # Try it: Change n * n to n * 3 and press Run

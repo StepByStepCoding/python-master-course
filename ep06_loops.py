@@ -1,4 +1,4 @@
-# Episode 5: Loops
+# Episode 6: Loops
 # Step By Step Coding · Python basics
 #
 # Try it: Change range(3) to range(6), then press Run

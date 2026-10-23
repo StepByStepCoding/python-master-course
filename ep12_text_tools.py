@@ -1,4 +1,4 @@
-# Episode 11: String methods
+# Episode 12: String methods
 # Step By Step Coding · Python basics
 #
 # Try it: Replace "World" with your own name, then press Run

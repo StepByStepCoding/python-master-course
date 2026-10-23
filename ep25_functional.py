@@ -1,4 +1,4 @@
-# Episode 24: lambda, map, filter and sorted
+# Episode 25: lambda, map, filter and sorted
 # Step By Step Coding · Python basics
 #
 # Try it: Sort names with key=lambda s: s[-1], then press Run

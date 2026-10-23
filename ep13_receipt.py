@@ -1,4 +1,4 @@
-# Episode 12: Formatting output
+# Episode 13: Formatting output
 # Step By Step Coding · Python basics
 #
 # Try it: Change qty to 5 and press Run

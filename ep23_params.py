@@ -1,4 +1,4 @@
-# Episode 22: Parameters
+# Episode 23: Parameters
 # Step By Step Coding · Python basics
 #
 # Try it: Call greet with your own name and a greeting, then Run

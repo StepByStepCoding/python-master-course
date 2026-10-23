@@ -1,4 +1,4 @@
-# Episode 13: Booleans and truthiness
+# Episode 14: Booleans and truthiness
 # Step By Step Coding · Python basics
 #
 # Try it: Change age to 15 and press Run

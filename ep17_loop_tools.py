@@ -1,4 +1,4 @@
-# Episode 16: range, enumerate and zip
+# Episode 17: range, enumerate and zip
 # Step By Step Coding · Python basics
 #
 # Try it: Change the step 3 to 2 and press Run

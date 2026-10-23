@@ -1,4 +1,4 @@
-# Episode 20: Dictionaries in depth
+# Episode 21: Dictionaries in depth
 # Step By Step Coding · Python basics
 #
 # Try it: Add person["pet"] = "dog" and press Run

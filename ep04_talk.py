@@ -1,4 +1,4 @@
-# Episode 3: Input, output and strings
+# Episode 4: Input, output and strings
 # Step By Step Coding · Python basics
 #
 # Try it: Press Run and type your own name when it asks

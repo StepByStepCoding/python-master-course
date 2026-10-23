@@ -1,4 +1,4 @@
-# Episode 15: while, break and continue
+# Episode 16: while, break and continue
 # Step By Step Coding · Python basics
 #
 # Try it: Change the 3 to a 5 and press Run

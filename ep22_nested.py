@@ -1,4 +1,4 @@
-# Episode 21: Nested data
+# Episode 22: Nested data
 # Step By Step Coding · Python basics
 #
 # Try it: Add your own skill with append, then press Run

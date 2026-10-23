@@ -1,4 +1,4 @@
-# Episode 17: List methods and slicing
+# Episode 18: List methods and slicing
 # Step By Step Coding · Python basics
 #
 # Try it: Add nums.append(7) and nums.sort(), then press Run
