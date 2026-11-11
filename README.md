@@ -1,48 +1,34 @@
-# Python Basics Practice Files
+# Python for AI — StepByStepCoding
 
-Starter code for the **Step By Step Coding** Python for AI course (Part 1: Foundations, episodes 1–27).
+Learner examples and practice for the first four classes of **Python for AI 2027**.
 
-Watching is good. Typing the code yourself is better. Every episode has one file here, with a couple of small tasks written at the top for you to try.
+## Current classes
 
-## How to use
-1. Open a free online editor: [Python Tutor](https://pythontutor.com/python-compiler.html) or [Programiz](https://www.programiz.com/python-programming/online-compiler/)
-2. Open the file for your episode below, copy everything, and paste it into the editor.
-3. Press Run, then do the tasks written in the comments at the top of the file.
+| Class | Lesson and practice |
+| --- | --- |
+| 1 | [Setup and first program](lessons/01-setup-and-first-program/README.md) |
+| 2 | [Variables and types](lessons/02-variables-and-types/README.md) |
+| 3 | [Strings and readable messages](lessons/03-strings-and-readable-messages/README.md) |
+| 4 | [Numbers, calculations, and type conversion](lessons/04-numbers-and-type-conversion/README.md) |
 
-## Episodes
+Start with Class 1, then continue in order. Each lesson includes runnable examples, a practice task, a worked answer, and expected outputs. Try the practice before opening the answer.
 
-| # | Episode | File |
-|---|---|---|
-| 1 | Your first program | [ep01_first_program.py](ep01_first_program.py) |
-| 2 | Variables | [ep02_variables.py](ep02_variables.py) |
-| 3 | Python's syntax rules | [ep03_rules.py](ep03_rules.py) |
-| 4 | Input, output and strings | [ep04_talk.py](ep04_talk.py) |
-| 5 | Conditions | [ep05_decisions.py](ep05_decisions.py) |
-| 6 | Loops | [ep06_loops.py](ep06_loops.py) |
-| 7 | Lists and dictionaries | [ep07_collections.py](ep07_collections.py) |
-| 8 | Functions | [ep08_functions.py](ep08_functions.py) |
-| 9 | Errors | [ep09_errors.py](ep09_errors.py) |
-| 10 | Mini project | [ep10_gradebook.py](ep10_gradebook.py) |
-| 11 | Numbers and operators | [ep11_math_basics.py](ep11_math_basics.py) |
-| 12 | String methods | [ep12_text_tools.py](ep12_text_tools.py) |
-| 13 | Formatting output | [ep13_receipt.py](ep13_receipt.py) |
-| 14 | Booleans and truthiness | [ep14_truth.py](ep14_truth.py) |
-| 15 | Nested decisions | [ep15_doorman.py](ep15_doorman.py) |
-| 16 | while, break and continue | [ep16_controls.py](ep16_controls.py) |
-| 17 | range, enumerate and zip | [ep17_loop_tools.py](ep17_loop_tools.py) |
-| 18 | List methods and slicing | [ep18_list_tools.py](ep18_list_tools.py) |
-| 19 | List comprehensions | [ep19_shortcuts.py](ep19_shortcuts.py) |
-| 20 | Tuples and sets | [ep20_tuples_sets.py](ep20_tuples_sets.py) |
-| 21 | Dictionaries in depth | [ep21_dict_tools.py](ep21_dict_tools.py) |
-| 22 | Nested data | [ep22_nested.py](ep22_nested.py) |
-| 23 | Parameters | [ep23_params.py](ep23_params.py) |
-| 24 | Scope and return values | [ep24_scope.py](ep24_scope.py) |
-| 25 | lambda, map, filter and sorted | [ep25_functional.py](ep25_functional.py) |
-| 26 | Recursion | [ep26_recursion.py](ep26_recursion.py) |
-| 27 | Project: to-do manager | [ep27_todo.py](ep27_todo.py) |
+## Getting started
 
-More episodes will be added as the series grows.
+1. Install Python 3 and VS Code using the links in Class 1.
+2. Download this repository with **Code → Download ZIP**, or clone it:
 
-## Stuck?
-Leave a comment on the video and tell me which episode and which line.# python-basics-practice
-Starter code for the Step By Step Coding Python series. One file per episode: copy, paste into a free online editor, and try the tasks yourself.
+   ```sh
+   git clone https://github.com/StepByStepCoding/python-master-course.git
+   ```
+
+3. Open the lesson folder in VS Code and select your Python interpreter.
+4. Open an example and select **Run Python File in Terminal**. Save your edits before running again.
+
+No third-party Python packages are needed. Files run independently. The explicitly marked broken-quote example in Class 3 intentionally raises an error; practice files need your code before producing output.
+
+## Earlier practice files
+
+The root-level `ep01_*.py` through `ep27_*.py` files follow an earlier 27-episode outline. Their numbering differs from the current classes above. They remain available for existing links; use the **Current classes** section for this course's first four classes.
+
+See the [earlier 27-episode index](legacy-27-episode-index.md) for that material.
