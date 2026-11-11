@@ -26,9 +26,3 @@ Start with Class 1, then continue in order. Each lesson includes runnable exampl
 4. Open an example and select **Run Python File in Terminal**. Save your edits before running again.
 
 No third-party Python packages are needed. Files run independently. The explicitly marked broken-quote example in Class 3 intentionally raises an error; practice files need your code before producing output.
-
-## Earlier practice files
-
-The root-level `ep01_*.py` through `ep27_*.py` files follow an earlier 27-episode outline. Their numbering differs from the current classes above. They remain available for existing links; use the **Current classes** section for this course's first four classes.
-
-See the [earlier 27-episode index](legacy-27-episode-index.md) for that material.
