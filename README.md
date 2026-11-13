@@ -1,6 +1,6 @@
 # Python for AI — StepByStepCoding
 
-Learner examples and practice for the first four classes of **Python for AI 2027**.
+Learner examples and practice for the first six classes of **Python for AI 2027**.
 
 ## Current classes
 
@@ -10,6 +10,8 @@ Learner examples and practice for the first four classes of **Python for AI 2027
 | 2 | [Variables and types](lessons/02-variables-and-types/README.md) |
 | 3 | [Strings and readable messages](lessons/03-strings-and-readable-messages/README.md) |
 | 4 | [Numbers, calculations, and type conversion](lessons/04-numbers-and-type-conversion/README.md) |
+| 5 | [Ask the user with input() and interactive programs](lessons/05-ask-the-user-input-and-interactive-programs/README.md) |
+| 6 | [First project: study-session calculator](lessons/06-first-project-study-session-calculator/README.md) |
 
 Start with Class 1, then continue in order. Each lesson includes runnable examples, a practice task, a worked answer, and expected outputs. Try the practice before opening the answer.
 
@@ -25,4 +27,4 @@ Start with Class 1, then continue in order. Each lesson includes runnable exampl
 3. Open the lesson folder in VS Code and select your Python interpreter.
 4. Open an example and select **Run Python File in Terminal**. Save your edits before running again.
 
-No third-party Python packages are needed. Files run independently. The explicitly marked broken-quote example in Class 3 intentionally raises an error; practice files need your code before producing output.
+No third-party Python packages are needed. Files run independently. The explicitly marked broken-quote example in Class 3 and the invalid-number example in Class 5 intentionally raise errors; practice files need your code before producing output.
