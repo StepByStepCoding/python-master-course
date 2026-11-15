@@ -1,6 +1,6 @@
 # Python for AI — StepByStepCoding
 
-Learner examples and practice for the first six classes of **Python for AI 2027**.
+Learner examples and practice for Classes 1–6 and 8–14 of **Python for AI 2027**.
 
 ## Current classes
 
@@ -12,6 +12,13 @@ Learner examples and practice for the first six classes of **Python for AI 2027*
 | 4 | [Numbers, calculations, and type conversion](lessons/04-numbers-and-type-conversion/README.md) |
 | 5 | [Ask the user with input() and interactive programs](lessons/05-ask-the-user-input-and-interactive-programs/README.md) |
 | 6 | [First project: study-session calculator](lessons/06-first-project-study-session-calculator/README.md) |
+| 8 | [Elif, logical operators and validation](lessons/08-elif-logical-operators-and-validation-rules/README.md) |
+| 9 | [Build a calculator that handles mistakes](lessons/09-build-a-calculator-that-handles-mistakes/README.md) |
+| 10 | [Python lists](lessons/10-python-lists-store-access-and-update-multiple-values/README.md) |
+| 11 | [For loops and range](lessons/11-for-loops-and-range-process-every-item/README.md) |
+| 12 | [While loops](lessons/12-while-loops-keep-asking-until-the-user-stops/README.md) |
+| 13 | [Break, continue and nested loops](lessons/13-break-continue-and-small-nested-loops/README.md) |
+| 14 | [Build a quiz with attempts and a score](lessons/14-build-a-quiz-with-attempts-and-a-score/README.md) |
 
 Start with Class 1, then continue in order. Each lesson includes runnable examples, a practice task, a worked answer, and expected outputs. Try the practice before opening the answer.
 
