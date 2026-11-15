@@ -1,6 +1,6 @@
 # Python for AI — StepByStepCoding
 
-Learner examples and practice for Classes 1–6 and 8–14 of **Python for AI 2027**.
+Learner examples and practice for Classes 1–14 of **Python for AI 2027**.
 
 ## Current classes
 
@@ -12,6 +12,7 @@ Learner examples and practice for Classes 1–6 and 8–14 of **Python for AI 20
 | 4 | [Numbers, calculations, and type conversion](lessons/04-numbers-and-type-conversion/README.md) |
 | 5 | [Ask the user with input() and interactive programs](lessons/05-ask-the-user-input-and-interactive-programs/README.md) |
 | 6 | [First project: study-session calculator](lessons/06-first-project-study-session-calculator/README.md) |
+| 7 | [Comparisons, Booleans and if/else](lessons/07-comparisons-booleans-and-if-else/README.md) |
 | 8 | [Elif, logical operators and validation](lessons/08-elif-logical-operators-and-validation-rules/README.md) |
 | 9 | [Build a calculator that handles mistakes](lessons/09-build-a-calculator-that-handles-mistakes/README.md) |
 | 10 | [Python lists](lessons/10-python-lists-store-access-and-update-multiple-values/README.md) |
