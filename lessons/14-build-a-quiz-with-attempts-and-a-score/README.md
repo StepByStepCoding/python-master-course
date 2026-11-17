@@ -1,6 +1,8 @@
 # Episode 14: Build A Quiz With Attempts And A Score
 
-Matches the November 16 creator recording. Python 3; no third-party packages.
+[Watch Episode 14](https://youtu.be/sq2Zy8yBpgg) · [Course playlist](https://www.youtube.com/playlist?list=PLZlc9gYI7G7E)
+
+Python 3; no third-party packages required.
 
 Run `python recorded_example.py` to try the complete example.
 

@@ -20,12 +20,22 @@ Learner examples and practice for Classes 1–17 of **Python for AI 2027**.
 | 12 | [While loops](lessons/12-while-loops-keep-asking-until-the-user-stops/README.md) |
 | 13 | [Break, continue and nested loops](lessons/13-break-continue-and-small-nested-loops/README.md) |
 | 14 | [Build a quiz with attempts and a score](lessons/14-build-a-quiz-with-attempts-and-a-score/README.md) |
-
 | 15 | [String methods: clean and inspect text](lessons/15-string-methods-clean-and-inspect-text/README.md) |
 | 16 | [Slicing and ordering lists](lessons/16-slicing-and-ordering-lists/README.md) |
 | 17 | [Dictionaries: describe one record](lessons/17-dictionaries-describe-one-record/README.md) |
 
 Start with Class 1, then continue in order. Each lesson includes runnable examples, a practice task and a worked answer. Earlier lesson guides also list expected outputs. Try the practice before opening the answer.
+
+## Watch Episodes 14–17
+
+| Episode | Video |
+| --- | --- |
+| 14 | [Build a Python quiz](https://youtu.be/sq2Zy8yBpgg) |
+| 15 | [Python string methods](https://youtu.be/B7Ce3t_BEuE) |
+| 16 | [Slicing and ordering lists](https://youtu.be/0RvDKFmNyjk) |
+| 17 | [Python dictionaries](https://youtu.be/0YZtucEQGkM) |
+
+[Watch the course in order](https://www.youtube.com/playlist?list=PLZlc9gYI7G7E).
 
 ## Getting started
 
