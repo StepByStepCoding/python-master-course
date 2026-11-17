@@ -1,11 +1,10 @@
-# Worked answer: Build a quiz with attempts and a score
 questions = [
     "Language in this course?",
     "Keyword for a condition?",
     "What is 2 + 3?",
 ]
 answers = ["python", "if", "5"]
-questions.append("How many values does range(3) supply?")
+questions.append("How many values does range(3) give us?")
 answers.append("3")
 score = 0
 quit_quiz = False

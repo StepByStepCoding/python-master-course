@@ -1,6 +1,6 @@
 # Python for AI — StepByStepCoding
 
-Learner examples and practice for Classes 1–14 of **Python for AI 2027**.
+Learner examples and practice for Classes 1–17 of **Python for AI 2027**.
 
 ## Current classes
 
@@ -21,7 +21,11 @@ Learner examples and practice for Classes 1–14 of **Python for AI 2027**.
 | 13 | [Break, continue and nested loops](lessons/13-break-continue-and-small-nested-loops/README.md) |
 | 14 | [Build a quiz with attempts and a score](lessons/14-build-a-quiz-with-attempts-and-a-score/README.md) |
 
-Start with Class 1, then continue in order. Each lesson includes runnable examples, a practice task, a worked answer, and expected outputs. Try the practice before opening the answer.
+| 15 | [String methods: clean and inspect text](lessons/15-string-methods-clean-and-inspect-text/README.md) |
+| 16 | [Slicing and ordering lists](lessons/16-slicing-and-ordering-lists/README.md) |
+| 17 | [Dictionaries: describe one record](lessons/17-dictionaries-describe-one-record/README.md) |
+
+Start with Class 1, then continue in order. Each lesson includes runnable examples, a practice task and a worked answer. Earlier lesson guides also list expected outputs. Try the practice before opening the answer.
 
 ## Getting started
 
@@ -35,4 +39,4 @@ Start with Class 1, then continue in order. Each lesson includes runnable exampl
 3. Open the lesson folder in VS Code and select your Python interpreter.
 4. Open an example and select **Run Python File in Terminal**. Save your edits before running again.
 
-No third-party Python packages are needed. Files run independently. The explicitly marked broken-quote example in Class 3 and the invalid-number example in Class 5 intentionally raise errors; practice files need your code before producing output.
+No third-party Python packages are needed. Files run independently. Examples marked intentional_error deliberately raise errors. Practice files need your code before producing output.
